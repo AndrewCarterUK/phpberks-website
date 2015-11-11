@@ -1,5 +1,6 @@
 ---
 name: Stanko Markovic
+twitter: greyshirt
 talks:
     - @talk:work-smart
 ---

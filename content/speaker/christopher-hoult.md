@@ -1,9 +1,10 @@
 ---
 name: Christopher Hoult
+twitter: choult
 talks:
     - @talk:http-basics
 ---
 
 # Christopher Hoult
 
-Actor, Marketing Manager for [@progresstheatre](http://twitter.com/progresstheatre), senior software engineer for [@DataSift](http://twitter.com/DataSift), [@phpberks](http://twitter.com/PHPBerks) founder, fount of useless knowledge.
+Chris is the founder of [@phpberks](http://twitter.com/PHPBerks) and an Engineering Team Lead at DataSift. He oversees the web application, public API and a number of internal services at the world's leading provider of social data. Prior to this, he was a Senior Engineer at Time Out Digital, helping to design and deliver their global platform as well as the day to day running of the Time Out London and Paris websites.
