@@ -84,8 +84,6 @@ Example `content/speaker/alice.md`:
 ```md
 ---
 name: Alice
-from: United Kingdom
-skills: PHP, HTML, CSS, JS
 talks:
     - @talk:fire-drone
 ---
