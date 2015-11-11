@@ -1,23 +1,11 @@
-# OpenUG
+# PHPBerks Website
 
-[![Build Status](https://travis-ci.org/AndrewCarterUK/OpenUG.svg)](https://travis-ci.org/AndrewCarterUK/OpenUG)
-[![Code Coverage](https://scrutinizer-ci.com/g/AndrewCarterUK/OpenUG/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/AndrewCarterUK/OpenUG/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/AndrewCarterUK/OpenUG/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/AndrewCarterUK/OpenUG/?branch=master)
-[![Code Climate](https://codeclimate.com/github/AndrewCarterUK/OpenUG/badges/gpa.svg)](https://codeclimate.com/github/AndrewCarterUK/OpenUG)
+The website for the PHPBerks use group. Built using OpenUG.
 
-An open source framework for building user group websites.
-
-## Status
-
-This project is currently being developed. It isn't ready yet.
 
 ## Screenshots
 
 Templates can be found in the `templates` directory and are easily modified. The default layout is a simple bootstrap theme. [Twig](http://twig.sensiolabs.org/) is used as a templating engine.
-
-_Index Page_ ![Screenshot #1](http://res.cloudinary.com/radiophp/image/upload/v1447104482/index-screenshot_eeewlw.png)
-
-_Event Page_ ![Screenshot #2](http://res.cloudinary.com/radiophp/image/upload/v1447104482/event-screenshot_qe3jne.png)
 
 ## How To
 
