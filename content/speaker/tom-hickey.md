@@ -7,4 +7,4 @@ talks:
 
 # Tom Hickey
 
-Tom likes kittens, Apple and computers (and Disney).
+Tom is the senior (and only) developer at Danetti which is an ecommerce selling modern and contemporary furniture.  He was employee number 1 at Danetti and been there since 2006, learning and making mistakes and learning some more.
